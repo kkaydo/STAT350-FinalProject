@@ -55,7 +55,7 @@ are the questions of interest:
 ### Data description
 
 
-<img src="fish_models_files/figure-markdown_strict/unnamed-chunk-2-1.png" width="700" /><img src="fish_models_files/figure-markdown_strict/unnamed-chunk-2-2.png" width="700" />
+<img src="fish_models_files/figure-markdown_strict/unnamed-chunk-2-1.png" width="460" /><img src="fish_models_files/figure-markdown_strict/unnamed-chunk-2-2.png" width="460" />
 
 <img src="fish_models_files/figure-markdown_strict/unnamed-chunk-3-1.png" width="1300" />
 
@@ -697,7 +697,7 @@ for Bream, Roach, Whitefish, Parkki, Perch, Pike and Smelt while knowing
 their dimensions.
 
 
-<img src="fish_models_files/figure-markdown_strict/unnamed-chunk-19-1.png" width="1000" />
+<img src="fish_models_files/figure-markdown_strict/unnamed-chunk-19-1.png" width="600" />
 
 
 ### Appendix
