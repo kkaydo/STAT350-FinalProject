@@ -1,5 +1,9 @@
 <img src="fish_models_files/figure-markdown_strict/unnamed-chunk-1-1.png" width="1800" />
 
+Team
+- [Rajvir Sangha](https://github.com/rajvirsangha)
+- [Xueqi Du](https://github.com/kkaydo)
+- [Yanrong Shi](https://github.com/yannis-0220)
 
 
 ### Abstract
